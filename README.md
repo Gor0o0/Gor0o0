@@ -2,8 +2,6 @@
 
 
 <div align="center">
-  <img src="https://axelencore.ru/wp-content/uploads/2024/03/Axel-Word-Logo-v1-e1710794037463.png" alt="Axel Encore Logo" width="400" style="border-radius: 20px;"/>
-  
   <br><br>
   
   <div style="margin: 20px 0;">
