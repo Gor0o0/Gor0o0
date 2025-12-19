@@ -5,14 +5,9 @@
   </div>
 </div>
 
-<!-- Это палочка -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B6B&height=3&section=header&reversal=false&textBg=false" width="80%" style="border-radius: 10px;"/>
-</div>
-
 <!-- Это Волна -->
 <div align="center" style="margin-top: 80px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=60&section=footer" width="100%" style="border-radius: 0 0 20px 20px;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=60&section=footer" width="100%" style="border-radius: 0 0 20px 20px;"/>
 </div>
 <!--
 **Gor0o0/Gor0o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
