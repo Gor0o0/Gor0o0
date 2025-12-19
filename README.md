@@ -5,11 +5,12 @@
   </div>
 </div>
 
-<!-- Палочка
+<br><br>
+<!-- Палочка -->
 <div align="center" style="margin: 30px 0;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=C71585&height=3&section=header&reversal=false&textBg=false" width="80%" style="border-radius: 10px;"/>
 </div>
- -->
+ 
 <!-- Бейджи -->
 
 
