@@ -1,9 +1,9 @@
 <div align="center">
-  <br><br>
-  
   <div style="margin: 20px 0;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Sansation&weight=700&size=32&duration=3000&pause=1000&color=C71585&center=true&vCenter=true&width=600&lines=🖼+Hello%2C+это+Я!;🖋+Я+-+Художник;⛓+Я+-+Разработчик;♣+Я+-+Фанат" alt="Typing SVG" />
   </div>
+</div>
+
 <!--
 **Gor0o0/Gor0o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
