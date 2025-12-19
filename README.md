@@ -1,8 +1,4 @@
 <img src="https://capsule-render.vercel.app/aapi?type=waving&color=C71585&height=60&section=footer" width="100%" style="border-radius: 0 0 20px 20px;"/>
-<!-- This is wave -->
-<div align="center" style="margin-top: 80px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=60&section=footer" width="100%" style="border-radius: 0 0 20px 20px;"/>
-</div>
 
 <!-- Отступ -->
 <br><br>
@@ -30,4 +26,7 @@
   <img src="https://skillicons.dev/icons?i=python,github,vscode,pycharm,linux,css,figma,springboot&theme=dark&perline=8" />
 </p>
 
-
+<!-- This is wave -->
+<div align="center" style="margin-top: 80px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=60&section=footer" width="100%" style="border-radius: 0 0 20px 20px;"/>
+</div>
