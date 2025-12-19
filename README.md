@@ -1,3 +1,6 @@
+ <!-- Отступ -->
+<br><br>
+
 <!-- This is label -->
 <div align="center">
   <div style="margin: 20px 0;">
