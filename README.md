@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+<div align="center">
+  <img src="https://axelencore.ru/wp-content/uploads/2024/03/Axel-Word-Logo-v1-e1710794037463.png" alt="Axel Encore Logo" width="400" style="border-radius: 20px;"/>
+  
+  <br><br>
+  
+  <div style="margin: 20px 0;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=👋+Привет%2C+я+Axel+Encore!;🎵+Я+-+Музыкант;💻+Я+-+Разработчик;✨+Я+-+Мечтатель" alt="Typing SVG" />
+  </div>
 <!--
 **Gor0o0/Gor0o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
