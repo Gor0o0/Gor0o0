@@ -5,13 +5,21 @@
   </div>
 </div>
 
+<!-- Отступ -->
 <br><br>
+
 <!-- Палочка -->
 <div align="center" style="margin: 30px 0;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=C71585&height=3&section=header&reversal=false&textBg=false" width="80%" style="border-radius: 10px;"/>
 </div>
- 
+
+ <!-- Отступ -->
+<br><br>
+
 <!-- Бейджи -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,ubuntu,git,github,vscode,pycharm,linux,bash,java,grafana,css,javascript,cs,unity,figma,lua,springboot&theme=dark&perline=8" />
+</p>
 
 
 <!-- This is wave -->
