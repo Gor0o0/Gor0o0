@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/aapi?type=waving&color=C71585&height=60&section=footer" width="100%" style="border-radius: 0 0 20px 20px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=200&section=header&text=Welcome%20To%20My%20Profile!&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55" /> -->
 
 <!-- Отступ -->
 <br><br>
