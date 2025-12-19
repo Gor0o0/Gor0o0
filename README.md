@@ -1,3 +1,7 @@
+<div align="center" style="margin-top: 80px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=60&section=footer" width="100%" style="border-radius: 0 0 20px 20px;"/>
+</div>
+
 <!-- This is label -->
 <div align="center">
   <div style="margin: 20px 0;">
