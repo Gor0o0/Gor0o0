@@ -5,7 +5,7 @@
   <br><br>
   
   <div style="margin: 20px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1000&color=007FFF&center=true&vCenter=true&width=600&lines=🎲+Hello%2C+это+Я!;🖼🖼🎞🖋✏✒🖊🖍🖌🖊+Я+-+Художник;💻+Я+-+Разработчик;✨+Я+-+Мечтатель" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1000&color=007FFF&center=true&vCenter=true&width=600&lines=🎲+Hello%2C+это+Я!;🖋+Я+-+Художник;💻+Я+-+Разработчик;✨+Я+-+Мечтатель" alt="Typing SVG" />
   </div>
 <!--
 **Gor0o0/Gor0o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
