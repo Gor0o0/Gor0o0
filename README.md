@@ -25,7 +25,7 @@
   
   <!-- badges -->
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,github,vscode,pycharm,linux,css,figma,springboot&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,kotlin,github,vscode,pycharm,linux,css,figma,springboot&theme=dark&perline=8" />
   </p>
   
   <!-- This is bottom wave -->
