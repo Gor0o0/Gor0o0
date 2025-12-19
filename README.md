@@ -1,5 +1,7 @@
 <div align="center">
+  <!-- This is header wave-->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=70&section=header&fontSize=40&fontAlignY=35&animation=fadeIn%20%7C%20Tech%20Enthusiast&descAlignY=55" />
+  
   <!-- Отступ -->
   <br><br>
   
@@ -10,7 +12,7 @@
   </div>
   
   
-  <!-- Отступ -->
+  <!-- space -->
   <br><br>
   
   <!-- Палочка -->
@@ -18,15 +20,15 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=C71585&height=3&section=header&reversal=false&textBg=false" width="80%" style="border-radius: 10px;"/>
   </div>
   
-   <!-- Отступ -->
+   <!-- space -->
   <br><br>
   
-  <!-- Бейджи -->
+  <!-- badges -->
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python,github,vscode,pycharm,linux,css,figma,springboot&theme=dark&perline=8" />
   </p>
   
-  <!-- This is wave -->
+  <!-- This is bottom wave -->
   <div align="center" style="margin-top: 80px;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=60&section=footer" width="100%" style="border-radius: 0 0 20px 20px;"/>
   </div>
