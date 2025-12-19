@@ -18,7 +18,7 @@
 
 <!-- Бейджи -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgresql,mysql,mongodb,redis,ubuntu,github,vscode,pycharm,linux,css,figma,springboot&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,github,vscode,pycharm,linux,css,figma,springboot&theme=dark&perline=8" />
 </p>
 
 
