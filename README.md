@@ -1,7 +1,3 @@
-<div align="center" style="margin-top: 80px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=60&section=footer" width="100%" style="border-radius: 0 0 20px 20px;"/>
-</div>
-
 <!-- This is label -->
 <div align="center">
   <div style="margin: 20px 0;">
@@ -22,7 +18,7 @@
 
 <!-- Бейджи -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,ubuntu,git,github,vscode,pycharm,linux,bash,java,grafana,css,javascript,cs,unity,figma,lua,springboot&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgresql,mysql,mongodb,redis,ubuntu,git,github,vscode,pycharm,linux,css,figma,springboot&theme=dark&perline=8" />
 </p>
 
 
