@@ -29,7 +29,7 @@
   </p>
   <p align="center">
   <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white" />
-</p>
+  </p>
 
   <!-- This is bottom wave -->
   <div align="center" style="margin-top: 80px;">
