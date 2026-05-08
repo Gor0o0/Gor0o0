@@ -25,9 +25,12 @@
   
   <!-- badges -->
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,kotlin,github,vscode,pycharm,linux,css, itch,figma,springboot&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,kotlin,github,vscode,pycharm,linux,css,figma,springboot&theme=dark&perline=8" />
   </p>
-  
+  <p align="center">
+  <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white" />
+</p>
+
   <!-- This is bottom wave -->
   <div align="center" style="margin-top: 80px;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=60&section=footer" width="100%" style="border-radius: 0 0 20px 20px;"/>
